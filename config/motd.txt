@@ -1,5 +1,8 @@
 <!-- Most valid html will work in here, excluding images. -->
 
-<h1>Welcome to Space Station 13!</h1>
+<h1>Welcome to TDDStation13!</h1>
+<h1><a href="https://thedamndudes.xom">Check out our Website!</a></h1>
+<h1><a href="https://discord.gg/nTntJjs">Join our Discord!</a></h1>
+
 
 <i>This server is running a /tg/station 13 Git build.</i>
